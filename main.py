@@ -1,6 +1,6 @@
-import cv2  
-import pyttsx3
-import gui
+# import cv2  
+# import pyttsx3
+# import gui
 
 text_speech = pyttsx3.init() 
 
